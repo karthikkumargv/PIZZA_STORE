@@ -1,0 +1,162 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.navbar {
+  width: 300%;
+  background: url('https://t3.ftcdn.net/jpg/03/09/80/60/360_F_309806066_99bBOSX7JAIk2dliTQ2W7JTkA7ZjnFJm.jpg') no-repeat center center;
+  background-size: cover;
+  height: 50;
+}
+
+.navbar-brand, .nav-link {
+  color: white;
+  font-size: 1.2em;
+}
+
+.navbar-brand:hover, .nav-link:hover {
+  color: #f39c12; /* Hover color */
+}
+
+.container {
+  padding: 2rem;
+}
+.display-all-items {
+  padding: 20px;
+}
+
+.pizza-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.pizza-list li {
+  margin-bottom: 20px;
+}
+
+.pizza-list h2 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.pizza-list p {
+  margin: 5px 0;
+}.App {
+  text-align: center;
+}
+
+.App-header {
+  background-image: url('https://img.freepik.com/free-vector/pizza-restaurant-concept-illustration_114360-13505.jpg'); 
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+  color: white;
+}
+
+.home, .about, .display-all-items, .add-new-item, .contact {
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.9); 
+}
+
+.display-all-items {
+  padding: 20px;
+}
+
+.pizza-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.pizza-list li {
+  margin-bottom: 20px;
+}
+
+.pizza-list h2 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.pizza-list p {
+  margin: 5px 0;
+}
+
+.cart {
+  padding: 20px;
+}
+
+.cart ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.cart li {
+  margin-bottom: 20px;
+}
+
+.cart h3 {
+  margin-top: 20px;
+}.home {
+  text-align: center;
+  padding: 20px;
+}
+
+.home h1 {
+  font-size: 2em;
+}
+
+.home p {
+  font-size: 1.2em;
+}
+.pizzas-page {
+  padding: 20px;
+}
+
+.pizza-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.pizza-item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+  width: 200px;
+}
+
+.pizza-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+.cart {
+  margin-top: 20px;
+}
+
+.cart img {
+  width: 50px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.cart ul {
+  list-style: none;
+  padding: 0;
+}
+
+.cart li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+

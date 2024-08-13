@@ -1,0 +1,8 @@
+{
+    "items": [
+      { "id": 1, "name": "Margherita", "description": "Classic cheese pizza", "price": 10 },
+      { "id": 2, "name": "Pepperoni", "description": "Spicy pepperoni pizza", "price": 12 },
+      { "id": 3, "name": "BBQ Chicken", "description": "Grilled chicken with BBQ sauce", "price": 15 }
+    ]
+  }
+  
